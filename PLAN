@@ -1,0 +1,5 @@
+-Step 1: Website with the ability to type arbitrary strings and have them show up in some reasonable way (including backspaces)
+-Step 2: Ability to have the site generate some text and then determine whether the typed text matches that (including the ability to edit - e.g. backspaces)
+-Step 3: Keep a record of which letters / symbols are causing the most trouble and keep track of that information somehow
+-Step 4: Make the text which is generated respond to the problems areas 
+-Step 5: Grab text from github repositories 
